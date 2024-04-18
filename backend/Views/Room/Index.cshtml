@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Room>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Room List
+        </title>
+    </head>
+
+    <body>
+        <h2>Room names:</h2>
+        <ul>
+        @foreach(var room in Model)
+        {
+            <li> @room.RoomName </li>
+        }
+        </ul>
+    </body>
+
+
+</html>
+
+
+@{
+}
