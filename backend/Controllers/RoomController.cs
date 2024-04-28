@@ -6,6 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace backend.Controllers
 {
+
+    [Route("/api/[controller]")]
+    [ApiController]
     public class RoomController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -16,10 +19,16 @@ namespace backend.Controllers
         }
 
         [HttpGet]
-        public IActionResult Index()
+        public ActionResult<IEnumerable<Room>> GetAll()
         {
-            var rooms = _context.Room.ToList();
-            return View(rooms);
+            return _context.Room.ToList();
         }
+
+        //[HttpGet]
+        //public IActionResult Index()
+        //{
+        //    var rooms = _context.Room.ToList();
+        //    return View(rooms);
+        //}
     }
 }
