@@ -5,6 +5,8 @@ import Frontpage from './pages/Frontpage';
 import LoginPage from './pages/LoginPage';
 import RoomReservation from './pages/RoomReservation'
 import RegisterUser from './pages/RegisterUser';
+import Menu from './pages/Menu';
+import MakeReservation from './pages/MakeReservation';
 
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
         <Route path='/Login' element={<LoginPage />} />
         <Route path='/RoomReservation' element={<RoomReservation />} />
         <Route path="/RegisterUser" element={<RegisterUser />} />
+        <Route path="/Menu" element={<Menu />} />
+        <Route path="/MakeReservation" element={<MakeReservation />} />
       </Routes>
     </BrowserRouter>
   );

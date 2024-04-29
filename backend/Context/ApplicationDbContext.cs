@@ -7,6 +7,7 @@ namespace backend.Context
     {
         public DbSet<Room> Room { get; set; }
         public DbSet<UserData> UserData { get; set; }
+        public DbSet<Reservation> Reservation { get; set; }
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> contextOptions) : base(contextOptions)
         {
