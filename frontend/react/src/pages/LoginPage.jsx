@@ -33,7 +33,7 @@ export default function LoginPage() {
             setSuccessfulLogin(true);
             setErrorMessage(false);
             setTimeout(() => {
-                navigate("/RoomReservation");
+                navigate("/Menu");
                 setSuccessfulLogin(false);
         }, 2000);
         } catch(err) {
