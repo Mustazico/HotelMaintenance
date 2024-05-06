@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\susan\\source\\repos\\DAT154Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBD8860-7FD5-4924-9BDB-30A82CAF5CF1}|FrontDeskApplication\\FrontDeskApplication.csproj|c:\\users\\susan\\source\\repos\\dat154assignment4\\frontdeskapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDBD8860-7FD5-4924-9BDB-30A82CAF5CF1}|FrontDeskApplication\\FrontDeskApplication.csproj|solutionrelative:frontdeskapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBD8860-7FD5-4924-9BDB-30A82CAF5CF1}|FrontDeskApplication\\FrontDeskApplication.csproj|c:\\users\\susan\\source\\repos\\dat154assignment4\\frontdeskapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBD8860-7FD5-4924-9BDB-30A82CAF5CF1}|FrontDeskApplication\\FrontDeskApplication.csproj|solutionrelative:frontdeskapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\susan\\source\\repos\\DAT154Assignment4\\FrontDeskApplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FrontDeskApplication\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\susan\\source\\repos\\DAT154Assignment4\\FrontDeskApplication\\MainWindow.xaml",
+              "RelativeToolTip": "FrontDeskApplication\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T20:30:13.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\susan\\source\\repos\\DAT154Assignment4\\FrontDeskApplication\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FrontDeskApplication\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\susan\\source\\repos\\DAT154Assignment4\\FrontDeskApplication\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FrontDeskApplication\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:30:12.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
