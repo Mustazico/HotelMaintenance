@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrontDeskApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec490f33c182bd4b2f58458f9f8117f0465de770")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da2b76de8642957b51d266023c97dab1f4f3798f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrontDeskApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrontDeskApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
