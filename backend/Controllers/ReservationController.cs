@@ -60,7 +60,9 @@ namespace backend.Controllers
                 UserId = user.UserID,
                 ReservationMade = DateTime.Now,
                 ReservationFrom = reservationModel.ReservationFrom,
-                ReservationTo = reservationModel.ReservationTo
+                ReservationTo = reservationModel.ReservationTo,
+                CheckedIn = false,
+                CheckedOut = false
             };
 
             _context.Reservation.Add(newReservation);

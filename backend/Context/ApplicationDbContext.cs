@@ -9,6 +9,8 @@ namespace backend.Context
         public DbSet<UserData> UserData { get; set; }
         public DbSet<Reservation> Reservation { get; set; }
 
+        public DbSet<PersonnelTask> Task { get; set; }
+
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> contextOptions) : base(contextOptions)
         {
 
